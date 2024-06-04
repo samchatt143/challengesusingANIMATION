@@ -1,1 +1,3 @@
 # eventsbyuser
+The website is specially focused on the ANIMATION used in REACT JS other than that it is a website for the challenges that can enlisted by the user for ongoing or upcoming purposes...
+KIndly have the access from here--->https://challengesanimation.netlify.app/
